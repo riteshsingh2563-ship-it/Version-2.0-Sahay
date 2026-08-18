@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "147253327148",
+    "project_id": "sahay-b712b",
+    "storage_bucket": "sahay-b712b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147253327148:android:c6324b08f648b10be86889",
+        "android_client_info": {
+          "package_name": "com.aistudio.sahayapp.qvrzlm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOYfCfZUy3_y2ocLlZXex6GEOvv9Dplik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
