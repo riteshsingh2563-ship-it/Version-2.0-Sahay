@@ -1,0 +1,6 @@
+{
+  "name": "SAHAY",
+  "description": "SAHAY - One App. Every Need. The unified on-demand platform for rides, deliveries, groceries, home services, and pharmacy with digital wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

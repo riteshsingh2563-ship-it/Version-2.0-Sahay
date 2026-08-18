@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Top Pin Head -->
+    <path
+        android:pathData="M54,23 C50.7,23 48,25.7 48,29 C48,33.5 54,40 54,40 C54,40 60,33.5 60,29 C60,25.7 57.3,23 54,23 Z"
+        android:fillColor="#FFFFFF" />
+    <path
+        android:pathData="M54,29m-2.2,0a2.2,2.2 0 1,1 4.4,0a2.2,2.2 0 1,1 -4.4,0"
+        android:fillColor="#0B2265" />
+
+    <!-- Top Loop of 'S' Ribbon (Sky to Cyan gradient) -->
+    <path
+        android:pathData="M54,34 C64,34 72,40 72,48 C72,55.5 65,60 55,62 C47.5,63.5 40,66.5 40,73 C40,80.5 47,85 55,85 C61.5,85 66.8,81.5 69,77.5 L73.5,80.5 C70,86 63.2,90 55,90 C43.5,90 34,83 34,73 C34,64 42,59 52,57 C60,55.4 66,52.5 66,48 C66,43 61,39 54,39 C48.5,39 43.8,41.8 41.2,45.5 L36.8,42 C40.5,37 47,34 54,34 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Handshake motif in center -->
+    <!-- Left clasping hand -->
+    <path
+        android:pathData="M48,54 L55,59 L52.5,61.5 L45.5,56.5 Z"
+        android:fillColor="#00A3FF" />
+    <path
+        android:pathData="M50.5,52 L57.5,57 L55.5,59 L48.5,54 Z"
+        android:fillColor="#38BDF8" />
+    <!-- Right clasping hand -->
+    <path
+        android:pathData="M60,54 L53,59 L55.5,61.5 L62.5,56.5 Z"
+        android:fillColor="#0B2265" />
+
+    <!-- Modern accent dots/service marks inside launcher -->
+    <path
+        android:pathData="M30,54m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0"
+        android:fillColor="#E0F2FE" />
+    <path
+        android:pathData="M78,54m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0"
+        android:fillColor="#E0F2FE" />
+    <path
+        android:pathData="M37,35m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0"
+        android:fillColor="#E0F2FE" />
+    <path
+        android:pathData="M71,35m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0"
+        android:fillColor="#E0F2FE" />
+</vector>
